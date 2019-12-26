@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.project",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "project",
+    "packageName": "com.project",
+    "packageFolder": "com/project",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yzk0MWNmNmQ3OWFhYmNhYzFiMGJlMzkwZTYzMzk0ZmMyMWY2YThiNjg5NjlhMTJlMmUyMjU3MTc2ZjhlMTZlNjEwMTdkODM2ZjE2NThlMDAzMmRiZDY4NWE0Y2ZiM2VlNWMxYTc5NTZjNGMzYTg3ZDY3OTYzMTRkMTRkMDQyNmE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ],
+    "blueprints": []
+  }
+}
